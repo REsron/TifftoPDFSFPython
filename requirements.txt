@@ -1,0 +1,7 @@
+datetime
+simple-salesforce
+tk
+cryptography
+Pillow
+reportlab
+requests
