@@ -19,7 +19,7 @@ This Python application provides a GUI for uploading TIFF files from Salesforce 
 
 ### Step 1: Clone the Repository
 
-git clone https://github.com/yourusername/salesforce-tiff-to-pdf-uploader.git
+git clone https://github.com/REsron/TifftoPDFSFPython/salesforce-tiff-to-pdf-uploader.git
 cd salesforce-tiff-to-pdf-uploader
 
 ### Step 2 : Install Dependencies
